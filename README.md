@@ -21,3 +21,10 @@ This python script relies on:
 First, Create a new folder that will hold the python script (convert.py)  
 Second, move the document that is to be converted into the folder containing the python script.  
 Third, run convert.py from the command line.
+
+## Performance
+##### Because of the nature of the document and patient privacy laws, I am not posting images of the documents or the results themselves. I hope to be able to provide a form that I have generated containing no real patient information along with performance results in the future.
+
+## Discussion
+
+
