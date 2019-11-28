@@ -8,4 +8,4 @@ By leveraging OCR, we can extract, process, and restructure the text found in th
 
 ## Dependencies
 This python script relies on
-[Wand](http://docs.wand-py.org/en/0.5.7/) (for reading PDF files and converting to image format)
+		[Wand](http://docs.wand-py.org/en/0.5.7/) (for reading PDF files and converting to image format)
