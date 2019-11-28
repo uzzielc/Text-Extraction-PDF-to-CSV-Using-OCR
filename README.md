@@ -13,3 +13,11 @@ This python script relies on:
 - [Wand](http://docs.wand-py.org/en/0.5.7/) (for reading PDF files and converting to image format)  
 - [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html) (for image manipulation)  
 - [PIL](https://www.pythonware.com/products/pil/) (for image manipulation)
+- [Tesseract](https://github.com/tesseract-ocr/tesseract) (OCR Engine)
+- [PyTesseract](https://pypi.org/project/pytesseract/) (Python wrapper for Tesseract)
+
+## Running the Script
+##### Note: Currently, the script only supports conversion for one file at a time. Future version will support conversion for multiple pdf files without having to re-run the script.
+First, Create a new folder that will hold the python script (convert.py)  
+Second, move the document that is to be converted into the folder containing the python script.  
+Third, run convert.py from the command line.
