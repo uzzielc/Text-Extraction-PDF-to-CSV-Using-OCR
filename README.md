@@ -7,5 +7,5 @@ Prior to the creation of this algorithm, a PM&R employee was tasked with copying
 By leveraging OCR, we can extract, process, and restructure the text found in the input document and create a structured CSV file which is then used to upload into the PM&R online database cutting the labor costs spent on this task by over 50%.
 
 ## Dependencies
-This python script relies on:
+This python script relies on 
     [Wand](http://docs.wand-py.org/en/0.5.7/) (for reading PDF files and converting to image format)
